@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="altitude">%.1f</string>
+  <string name="altitude_title">Altitude</string>
+  <string name="altitude_unit">m</string>
+  <string name="app_label">Kompas</string>
+  <string name="calibrate_failed_no_location">Kalibrasi gagal: Tidak dapat menerima garis lintang dan garis bujur yang ada</string>
+  <string name="calibrate_failed_timeout">Kalibrasi gagal: Terjadi server timeout</string>
+  <string name="calibrate_success">Kalibrasi selesai</string>
+  <string name="cannot_get_location">Lokasi tidak diketahui</string>
+  <string name="dialog_calibrat_altitude">Kalibrasi altitude melalui koneksi internet.</string>
+  <string name="dialog_title_no_network">Tidak ditemukan jaringan, konek via Wi-Fi atau aktifkan Data</string>
+  <string name="direction_east">T</string>
+  <string name="direction_north">U</string>
+  <string name="direction_south">S</string>
+  <string name="direction_west">B</string>
+  <string name="getting_location">Mencari lokasi...</string>
+  <string name="latitude">LAT</string>
+  <string name="location_east">T</string>
+  <string name="location_north">U</string>
+  <string name="location_south">S</string>
+  <string name="location_west">B</string>
+  <string name="longitude">LON</string>
+  <string name="menu_calibrate">Kalibrasi</string>
+  <string name="menu_calibrate_altitude">Kalibrasi altitude</string>
+  <string name="pressure">%.1f</string>
+  <string name="pressure_title">Tekanan</string>
+  <string name="pressure_unit">hPa</string>
+</resources>

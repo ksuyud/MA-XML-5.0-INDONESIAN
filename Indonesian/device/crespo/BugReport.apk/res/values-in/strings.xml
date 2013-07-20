@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_submit">Kirim</string>
+  <string name="app_label">Umpan Balik</string>
+  <string name="btn_send">Kirim</string>
+  <string name="description">Penjelasan (Dibutuhkan)</string>
+  <string name="discard_draft_dialog_button_cancel">Batal</string>
+  <string name="discard_draft_dialog_button_discard">OK</string>
+  <string name="discard_draft_dialog_content">Laporan telah di modifikasi, Tekan tombol OK untuk membatalkan draf.</string>
+  <string name="discard_draft_dialog_title">Batalkan draf</string>
+  <string name="err_type">Tipe umpan balik</string>
+  <string name="err_type_call">isu panggilan</string>
+  <string name="err_type_data_lost">Kehilangan Data</string>
+  <string name="err_type_force_close">Paksa Tutup</string>
+  <string name="err_type_network">Isu Jaringan</string>
+  <string name="err_type_others">Lainnya</string>
+  <string name="err_type_power_consuming">Penggunaan Daya</string>
+  <string name="err_type_reboot">Sistem Reboot</string>
+  <string name="err_type_suggestion">Saran</string>
+  <string name="menu_attach_screenshot">Sisip Tampilan Layar</string>
+  <string name="menu_copy">Copy</string>
+  <string name="menu_discard">Batal</string>
+  <string name="menu_send">Kirim Laporan</string>
+  <string name="network_unavailable_dialog_button_ok">OK</string>
+  <string name="network_unavailable_dialog_content">Umpan balik akan dikirim ulang ketika jaringan tersedia</string>
+  <string name="network_unavailable_dialog_title">jaringan tidak tersedia</string>
+  <string name="packaging_dialog_content">Laporan sedang di buat, Mohon tunggu...</string>
+  <string name="report_miui">Melaprkan ke MIUI</string>
+  <string name="section_description">Deskripsi</string>
+  <string name="section_err_type">Tipe umpan balik</string>
+  <string name="section_screenshot">Tampilan Layar</string>
+  <string name="status_msg_collecting_log">Mengumpulkan logs...</string>
+  <string name="status_msg_pending_upload">%d Umpan balik tengah di upload...</string>
+  <string name="toast_description_required">Deskripsi diperlukan sebelum dikirim</string>
+  <string name="toast_feedback_pending_wlan">Umpan balik akan dikirim ketika jaringan Wi-Fi telah tersedia</string>
+  <string name="toast_feedback_submitted">Umpan balik sukses dikirim</string>
+  <string name="toast_pending_log_collection">Mengumpulkan logs, Harap tunggu...</string>
+  <string name="toast_report_copied_to_clipboard">laporan dikopi ke Clipboard</string>
+  <string name="toast_report_sent_failed">Gagal mengirim laporan!</string>
+  <string name="toast_report_sent_succeed">Laporan berhasil dikirim!</string>
+  <string name="user_feedback">Umpan balik pengguna</string>
+  <string name="wlan_unavailable_dialog_button_ok">OK</string>
+  <string name="wlan_unavailable_dialog_button_sent">Kirim Sekarang</string>
+  <string name="wlan_unavailable_dialog_content">%s dibutuhkan untuk 2G/3G data, tekan OK untuk mengirim melalui Wi-Fi saja</string>
+  <string name="wlan_unavailable_dialog_title">Wi-Fi tidak tersedia</string>
+</resources>
