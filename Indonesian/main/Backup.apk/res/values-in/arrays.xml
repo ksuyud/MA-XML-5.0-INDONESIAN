@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi data</item>
+        <item>Semua program</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Browser</item>
+        <item>File explorer</item>
+        <item>Gallery</item>
+        <item>Permission manager</item>
+        <item>Camera</item>
+        <item>Network assistant</item>
+        <item>Weather Storage</item>
+        <item>Weather</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kontak</item>
+        <item>Catatan panggilan</item>
+        <item>Pesan</item>
+        <item>Pesan Multimedia</item>
+        <item>Pengaturan sistem</item>
+        <item>Pengaturan Wi-Fi</item>
+        <item>Tampilan desktop</item>
+        <item>Pengaturan alarm</item>
+        <item>Catatan</item>
+        <item>DND</item>
+        <item>Akun</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Data</item>
+        <item>Aplikasi</item>
+        <item>Aplikasi and Data</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kontak</item>
+        <item>Catatan panggilan</item>
+        <item>Pesan</item>
+        <item>Pengaturan Wi-Fi</item>
+        <item>Catatan</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kontak</item>
+        <item>Pengaturan Wi-Fi</item>
+        <item>Catatan</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Catatan panggilan</item>
+        <item>Pesan</item>
+    </string-array>
+</resources>
